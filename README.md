@@ -1,15 +1,16 @@
-# Projeto-Range-Hotels
+# Range Hotels Project
 
-## Sobre o projeto
-O projeto é uma interface de um site de hotel que tem por objetivo aplicar os conhecimentos obtidos sobre HTML e CSS. O projeto é um site fictício e tem por 
-objetivo apenas ilustrar um exemplo de site real.
+* Leia em [Português](https://github.com/kelvin-feltrin/Projeto-Range-Hotels/blob/master/README-pt.md)
 
-## Layout desktop
+## About the project
+"Range Hotels" is an interface for a hotel website that aims to apply the knowledge obtained about HTML and CSS. The project is a fictitious website and seeks to illustrate an example of a real website. Project developed in the course [Curso Web Frontend Fundamentos: HTML, CSS e JS + 10 Projetos](https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/)
+
+## Desktop layout
 ![Desktop](https://github.com/kelvin-feltrin/Projeto-Range-Hotels/blob/master/assets/Desktop.png) 
 
-## Layout mobile
+## Mobile layout
 ![Mobile](https://github.com/kelvin-feltrin/Projeto-Range-Hotels/blob/master/assets/Mobile.png) 
 
-# Tecnologias utilizadas
+# Tech Stack
 - HTML
 - CSS
